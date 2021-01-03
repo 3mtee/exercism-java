@@ -1,5 +1,7 @@
-
 rootProject.name = "exercism-java"
-include("hello-world")
-include("two-fer")
-include("hamming")
+include(
+    "hello-world",
+    "two-fer",
+    "hamming",
+    "gigasecond"
+)
